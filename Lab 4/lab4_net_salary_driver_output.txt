@@ -1,0 +1,45 @@
+Script started on 2023-09-21 16:10:33-04:00 [TERM="xterm" TTY="/dev/pts/3" COLUMNS="80" LINES="24"]
+[?2004h]0;tur26337@cis-lclient12: ~/lab4tur26337@cis-lclient12:~/lab4$ exit./a.out
+[?2004lWhat is your salary before deductions? 100000
+How much are you paying for parking? 75,100,125?75
+debug print: new salary is 100000.000000
+debug print: new salary is 92346.500000
+debug print:new salary is 70346.500000
+debug print: new salary is 63346.500000
+debug print: new salary is 61846.500000 
+debug print: new salary is 61771.500000 
+debug print: new salary is 61749.000000 /nYour computed salary is 61749.000 
+[?2004h]0;tur26337@cis-lclient12: ~/lab4tur26337@cis-lclient12:~/lab4$ ./a.out
+[?2004lWhat is your salary before deductions?35000
+How much are you paying for parking? 75,100,125?75
+debug print: new salary is 35000.000000
+debug print: new salary is 32321.275000
+debug print:new salary is 24621.275000
+debug print: new salary is 22171.275000
+debug print: new salary is 21646.275000 
+debug print: new salary is 21571.275000 
+debug print: new salary is 21548.775000 /nYour computed salary is 21548.775 
+[?2004h]0;tur26337@cis-lclient12: ~/lab4tur26337@cis-lclient12:~/lab4$ ./a.out
+[?2004lWhat is your salary before deductions?50000
+How much are you paying for parking? 75,100,125?125
+debug print: new salary is 50000.000000
+debug print: new salary is 46173.250000
+debug print:new salary is 35173.250000
+debug print: new salary is 31673.250000
+debug print: new salary is 30923.250000 
+debug print: new salary is 30798.250000 
+debug print: new salary is 30775.750000 /nYour computed salary is 30775.750 
+[?2004h]0;tur26337@cis-lclient12: ~/lab4tur26337@cis-lclient12:~/lab4$ ./a.out[3Pexit./a.out
+[?2004lWhat is your salary before deductions?80000
+How much are you paying for parking? 75,100,125?100
+debug print: new salary is 80000.000000
+debug print: new salary is 73877.200000
+debug print:new salary is 56277.200000
+debug print: new salary is 50677.200000
+debug print: new salary is 49477.200000 
+debug print: new salary is 49377.200000 
+debug print: new salary is 49354.700000 /nYour computed salary is 49354.700 
+[?2004h]0;tur26337@cis-lclient12: ~/lab4tur26337@cis-lclient12:~/lab4$ exit
+[?2004lexit
+
+Script done on 2023-09-21 16:11:29-04:00 [COMMAND_EXIT_CODE="0"]

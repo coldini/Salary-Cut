@@ -1,0 +1,35 @@
+Script started on 2023-09-21 16:08:34-04:00 [TERM="xterm" TTY="/dev/pts/3" COLUMNS="80" LINES="24"]
+[?2004h]0;tur26337@cis-lclient12: ~/lab4tur26337@cis-lclient12:~/lab4$ ./a.out
+[?2004lWhat was your gross salary for the year? 
+100000
+Is the parking you owe? Is it 75, 100, or 125 dollars?  
+75
+Your salary after deductions is 61749.000 
+[?2004h]0;tur26337@cis-lclient12: ~/lab4tur26337@cis-lclient12:~/lab4$ ./a.out
+[?2004lWhat was your gross salary for the year? 
+35000
+Is the parking you owe? Is it 75, 100, or 125 dollars?  
+75
+Your salary after deductions is 21548.775 
+[?2004h]0;tur26337@cis-lclient12: ~/lab4tur26337@cis-lclient12:~/lab4$ ./a.out[3Pexit./a.out
+[?2004lWhat was your gross salary for the year? 
+50000
+Is the parking you owe? Is it 75, 100, or 125 dollars?  
+125
+Your salary after deductions is 30775.750 
+[?2004h]0;tur26337@cis-lclient12: ~/lab4tur26337@cis-lclient12:~/lab4$ ./a.out[K./a.out
+[?2004lWhat was your gross salary for the year? 
+8000
+Is the parking you owe? Is it 75, 100, or 125 dollars?  
+100
+Your salary after deductions is 4825.220 
+[?2004h]0;tur26337@cis-lclient12: ~/lab4tur26337@cis-lclient12:~/lab4$ ./a.out
+[?2004lWhat was your gross salary for the year? 
+9 80000
+Is the parking you owe? Is it 75, 100, or 125 dollars?  
+100
+Your salary after deductions is 49354.700 
+[?2004h]0;tur26337@cis-lclient12: ~/lab4tur26337@cis-lclient12:~/lab4$ exit
+[?2004lexit
+
+Script done on 2023-09-21 16:09:47-04:00 [COMMAND_EXIT_CODE="0"]
